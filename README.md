@@ -21,11 +21,10 @@ Made with :green_heart: using:
 
 ## Screenshot App
 
-![App Screenshot](https://github.com/jorgearguellles/expanding-card.js/blob/main/screenshots/%201.png)
-![App Screenshot](https://github.com/jorgearguellles/expanding-card.js/blob/main/screenshots/2.png)
-![App Screenshot](https://github.com/jorgearguellles/expanding-card.js/blob/main/screenshots/3.png)
-![App Screenshot](https://github.com/jorgearguellles/expanding-card.js/blob/main/screenshots/4.png)
-![App Screenshot](https://github.com/jorgearguellles/expanding-card.js/blob/main/screenshots/5.png)
+![App Screenshot](https://github.com/jorgearguellles/progress-steps.js/blob/main/screenshots/1.png)
+![App Screenshot](https://github.com/jorgearguellles/progress-steps.js/blob/main/screenshots/2.png)
+![App Screenshot](https://github.com/jorgearguellles/progress-steps.js/blob/main/screenshots/3.png)
+![App Screenshot](https://github.com/jorgearguellles/progress-steps.js/blob/main/screenshots/4.png)
 
 ## Feedback
 

@@ -2,7 +2,7 @@
 
 :root{
   --line-border-fill:#3498db;
-  --line-border-empty:lightgray;
+  --line-border-empty: #e0e0e0;
 }
 *{
   box-sizing: border-box;
@@ -73,29 +73,27 @@ body{
   border-color: var(--line-border-fill);
 }
 
-.btn{
+.btn {
   background-color: var(--line-border-fill);
-  color: white;
-  /* outline: none; */
-  border: none;
-  border-radius: 50px;
-  height: 30px;
-  width: 90px;
+  color: #fff;
+  border: 0;
+  border-radius: 6px;
   cursor: pointer;
   font-family: inherit;
+  padding: 8px 30px;
   margin: 5px;
   font-size: 14px;
 }
 
-.btn:active{
+.btn:active {
   transform: scale(0.98);
 }
 
-.btn:focus{
-  outline: 1;
+.btn:focus {
+  outline: 0;
 }
 
-.btn#prev{
+.btn:disabled {
   background-color: var(--line-border-empty);
   cursor: not-allowed;
 }
